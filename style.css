@@ -40,6 +40,11 @@ html {
 
 		}
 		
+    h1 {
+ 		font:23px/1.1 'GeorgiaRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
+	    text-align:left;
+        }
+		
 		.w980 {width:980px; position:relative;  margin:0px auto; }
 		.ie {height:615px;  }
 		.bg {position:relative; height:60px; }
@@ -78,16 +83,19 @@ html {
 						border:1px solid  #000000;
 
 				}
-				.travel h1
+				.travel 
 				{
-						width:320px; 
+						width:330px; 
 						height:100px; 
-						padding:1px 5px 20px; 
+						padding:0px 5px 20px; 
 						position:relative; 
 						margin:-14px 0 0 55px;
 						border:1px solid  #000000;
 						float:left;
-						font:23px/1.1 'GeorgiaRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
+						font:12px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
+						color:#000;
+						text-align:justify;
+						
 
 				}
 				.click-here h2
