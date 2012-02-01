@@ -40,6 +40,89 @@ html {
 
 		}
 		
+		.w980 {width:980px; position:relative;  margin:0px auto; }
+		.ie {height:615px;  }
+		.bg {position:relative; height:60px; }
+
+				.background {
+					position:absolute;
+					width:1252px;
+					height:750px;
+					-webkit-background-size: 1252px 750px;
+					top:-620px;
+					left:-150px;
+					background:url(FEDtest.png) no-repeat left top;
+				}
+
+
+				.center
+
+				{
+						width:910px; 
+						height:650px; 
+						margin:0 auto; 
+						padding:30px 40px 20px; 
+						position:relative; 
+						margin: 0 0 0 150px;
+						border:1px solid  #00ff00;
+
+						}
+
+				.box-central
+				{
+						width:890px; 
+						height:554px; 
+						padding:30px 40px 20px; 
+						position:relative; 
+						margin:45px 0 0 -30px;
+						border:1px solid  #000000;
+
+				}
+				.travel
+				{
+						width:260px; 
+						height:100px; 
+						padding:30px 40px 20px; 
+						position:relative; 
+						margin:-14px 0 0 55px;
+						border:1px solid  #000000;
+						float:left;
+
+				}
+				.click-here
+				{
+						width:245px; 
+						height:95px; 
+						padding:30px 40px 20px; 
+						position:relative; 
+						margin:-152px 0 0 577px;
+						border:1px solid  #00ff00;
+						float:right;
+
+				}
+
+				.search
+				{
+						width:465px; 
+						height:350px; 
+						padding:30px 40px 20px; 
+						position:relative; 
+						margin:10px 0 0 -30px;
+						border:1px solid  #000000;
+						float:left;
+
+				}
+				.census
+				{
+						width:265px; 
+						height:270px; 
+						padding:30px 40px 20px; 
+						position:relative; 
+						margin:140px 0 0 560px;
+						border:1px solid  #0000ff;
+						float:rigth;
+
+				}
 		
 		
 		
