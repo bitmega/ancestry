@@ -126,17 +126,25 @@ html {
 						float:left;
 
 				}
-				.census h1
+				.census 
 				{
-						width:265px; 
+						width:285px; 
+						line-height:140%;
 						height:270px; 
-						padding:30px 40px 20px; 
+						padding:0px 19px 20px; 
 						position:relative; 
 						margin:140px 0 0 560px;
-						border:1px solid  #0000ff;
 						float:rigth;
-						font:30px/1.1 'GeorgiaRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
+						font:'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
+						text-align:justify;
+						font-size:12px;
 
+				}
+				
+				.census-link 
+				{
+						color:#455b13;
+						text-decoration:underline;
 				}
 		
 		input {
