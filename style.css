@@ -78,18 +78,19 @@ html {
 						border:1px solid  #000000;
 
 				}
-				.travel
+				.travel h1
 				{
 						width:320px; 
 						height:100px; 
-						padding:10px 10px 20px; 
+						padding:1px 5px 20px; 
 						position:relative; 
 						margin:-14px 0 0 55px;
 						border:1px solid  #000000;
 						float:left;
+						font:23px/1.1 'GeorgiaRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
 
 				}
-				.click-here
+				.click-here h2
 				{
 						width:245px; 
 						height:95px; 
@@ -98,6 +99,8 @@ html {
 						margin:-152px 0 0 577px;
 						border:1px solid  #00ff00;
 						float:right;
+						font:25px/1.1 'GeorgiaRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
+						color:#455b13;
 
 				}
 
@@ -112,7 +115,7 @@ html {
 						float:left;
 
 				}
-				.census
+				.census h1
 				{
 						width:265px; 
 						height:270px; 
@@ -121,6 +124,7 @@ html {
 						margin:140px 0 0 560px;
 						border:1px solid  #0000ff;
 						float:rigth;
+						font:30px/1.1 'GeorgiaRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
 
 				}
 		
