@@ -127,6 +127,15 @@ html {
 				     -webkit-border-radius:5px;
 					 -moz-border-radius:5px;
 						  border-radius:5px;
+						background-color: #fdf9e7;
+						  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #fdf9e7));
+						  background-image: -webkit-linear-gradient(top, #ffffff, #fdf9e7);
+						  background-image:    -moz-linear-gradient(top, #ffffff, #fdf9e7);
+						  background-image:     -ms-linear-gradient(top, #ffffff, #fdf9e7);
+						  background-image:      -o-linear-gradient(top, #ffffff, #fdf9e7);
+						  background-image:         linear-gradient(top, #ffffff, #fdf9e7);
+						  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#fdf9e7', GradientType=0);
+						  background-repeat: repeat-x;
 
 				}
 				.form
