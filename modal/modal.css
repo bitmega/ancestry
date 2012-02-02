@@ -1,4 +1,12 @@
-
+.click-here-modal 
+				{
+						width:304px; 
+						height:239px; 
+						padding:22px 36px 20px; 
+						position:relative; 
+						
+						float:left;
+				}
 #mask {
   position:absolute;
   left:0;
@@ -11,12 +19,17 @@
 #boxes .window {
   position:absolute;
   left:0;
-  top:0;
+  top:0;background:url(modal.png) no-repeat left top;
   width:440px;
   height:200px;
   display:none;
   z-index:9999;
   padding:20px;
+  
+	  -webkit-border-radius:5px;
+		 -moz-border-radius:5px;
+			  border-radius:5px;
+
 }
 
 #boxes #dialog {
