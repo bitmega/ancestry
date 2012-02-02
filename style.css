@@ -75,7 +75,7 @@ html {
 						padding:30px 40px 20px; 
 						position:relative; 
 						margin: 0 0 0 150px;
-						border:1px solid  #00ff00;
+						
 
 						}
 
@@ -86,7 +86,7 @@ html {
 						padding:30px 40px 20px; 
 						position:relative; 
 						margin:45px 0 0 -30px;
-						border:1px solid  #000000;
+					
 
 				}
 				.travel 
@@ -135,7 +135,6 @@ html {
 						height:395px; 
 						position:relative; 
 						margin:-30px 0 0 -40px;
-						
 						float:left;
 						
 
@@ -160,29 +159,69 @@ html {
 						width:135px; 
 						height:25px; 
 						position:relative; 
-						
 						font:16px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						color:#fff;
 						margin:0 0 0 0px;
 						float:left;
 						font-weight:bold;
-						
-
 				}
 				.text-top-form-left
 				{
 						width:185px; 
 						height:25px; 
 						position:relative; 
-						
 						font:11px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						color:#fff;
 						margin:0 0 0 0px;
+						
 						float:right;
-						text-decoration:underline;
-
+						
 				}
-				
+				.left-label
+				{
+						width:185px; 
+						height:25px; 
+						position:relative; 
+						font:11px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
+						color:#80818c;
+						margin:-24px 50px 0 0px;
+						
+						float:right;
+						
+				}
+				.left-label2
+				{
+						width:185px; 
+						height:25px; 
+						position:relative; 
+						font:11px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
+						color:#80818c;
+						margin:-48px 50px 0 0px;
+						
+						float:right;
+						
+				}
+				.size-input
+				{
+						width:155px; 
+						height:22px; 
+						
+						
+				}
+				.size-2
+				{
+						width:185px; 
+						height:22px; 
+						
+						
+				}
+				.big-size
+				{
+						width:455px; 
+						height:22px; 
+						
+						
+				}
 				.census 
 				{
 						width:285px; 
@@ -243,6 +282,45 @@ html {
 
 }
 		
+		.btn-search {
+	
+	 width:66px; height:30px;
+	 margin: -14px 0 0 6px;
+	 float:left;
+	 text-decoration:none;
+	 font:12px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
+	 color:#fff;
+	 font-weight:bold;
+	 border:0px;
+	 
+	 
+	   -webkit-box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
+          -moz-box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
+               box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
+	  
+	  padding:2px 4px;
+	  -webkit-transition: background-position 0.2s linear;
+		 -moz-transition: background-position 0.2s linear;
+		  -ms-transition: background-position 0.2s linear;
+		   -o-transition: background-position 0.2s linear;
+			  transition: background-position 0.2s linear;
+	
+	  background-color: #d68900;
+	  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f1ab40), color-stop(100%, #cd7f00));
+	  background-image: -webkit-linear-gradient(top, #f1ab40, #cd7f00);
+	  background-image:    -moz-linear-gradient(top, #f1ab40, #cd7f00);
+	  background-image:     -ms-linear-gradient(top, #f1ab40, #cd7f00);
+	  background-image:      -o-linear-gradient(top, #f1ab40, #cd7f00);
+	  background-image:         linear-gradient(top, #f1ab40, #cd7f00);
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1ab40', endColorstr='#cd7f00', GradientType=0);
+	  background-repeat: repeat-x;
+	
+	  -webkit-border-radius:5px;
+		 -moz-border-radius:5px;
+			  border-radius:5px;
+
+}
+		
 		input {
 	
 	 width:242px; height:21px;
@@ -271,12 +349,13 @@ html {
 label{
 	 font-weight:bold;
 	 font:15px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
+	 color:#000;
 }
 .form-field{
 	 width:490px; 
 	 height:350px;
-	 border:1px solid #06F;
+	 color:#999;
 	 margin:35px 0 0 22px;
+	 padding:0px 11px 0px; 
 }
-		
-		
+	
