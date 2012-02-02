@@ -17,10 +17,8 @@ html {
   background-image:         linear-gradient(top, #fff, #e8e4d6);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#fff', GradientType=0);
   background-repeat: repeat-x;
-
-
 	}
-	
+		
 	body {
 		min-height:100%; 
 		font:normal 10px Verdana, Geneva, sans-serif; 
@@ -75,8 +73,6 @@ html {
 						padding:30px 40px 20px; 
 						position:relative; 
 						margin: 0 0 0 150px;
-						
-
 						}
 
 				.box-central
@@ -86,8 +82,6 @@ html {
 						padding:30px 40px 20px; 
 						position:relative; 
 						margin:45px 0 0 -30px;
-					
-
 				}
 				.travel 
 				{
@@ -100,8 +94,6 @@ html {
 						font:12px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						color:#000;
 						text-align:justify;
-						
-
 				}
 				.click-here 
 				{
@@ -111,8 +103,6 @@ html {
 						position:relative; 
 						margin:-122px 0 0 577px;
 						float:left;
-						
-
 				}
 
 				.search
@@ -136,7 +126,6 @@ html {
 						  background-image:         linear-gradient(top, #ffffff, #fdf9e7);
 						  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#fdf9e7', GradientType=0);
 						  background-repeat: repeat-x;
-
 				}
 				.form
 				{
@@ -145,8 +134,6 @@ html {
 						position:relative; 
 						margin:-30px 0 0 -40px;
 						float:left;
-						
-
 				}
 				.top-form
 				{
@@ -161,7 +148,6 @@ html {
 						-webkit-border-radius:5px;
 					 -moz-border-radius:5px;
 						  border-radius:5px;
-
 				}
 				.text-top-form-right
 				{
@@ -182,9 +168,7 @@ html {
 						font:11px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						color:#fff;
 						margin:0 0 0 0px;
-						
-						float:right;
-						
+						float:right;	
 				}
 				.left-label
 				{
@@ -194,9 +178,7 @@ html {
 						font:11px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						color:#80818c;
 						margin:-24px 50px 0 0px;
-						
-						float:right;
-						
+						float:right;						
 				}
 				.left-label2
 				{
@@ -206,30 +188,22 @@ html {
 						font:11px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						color:#80818c;
 						margin:-48px 50px 0 0px;
-						
-						float:right;
-						
+						float:right;		
 				}
 				.size-input
 				{
 						width:155px; 
 						height:22px; 
-						
-						
 				}
 				.size-2
 				{
 						width:185px; 
-						height:22px; 
-						
-						
+						height:22px; 		
 				}
 				.big-size
 				{
 						width:455px; 
-						height:22px; 
-						
-						
+						height:22px; 	
 				}
 				.census 
 				{
@@ -243,7 +217,6 @@ html {
 						font:'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 						text-align:justify;
 						font-size:12px;
-
 				}
 				
 				.census-link 
@@ -263,11 +236,10 @@ html {
 	 font-weight:bold;
 	 border:0px;
 	 
-	 
 	   -webkit-box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
           -moz-box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
                box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
-	  
+
 	  padding:2px 4px;
 	  -webkit-transition: background-position 0.2s linear;
 		 -moz-transition: background-position 0.2s linear;
@@ -288,7 +260,6 @@ html {
 	  -webkit-border-radius:5px;
 		 -moz-border-radius:5px;
 			  border-radius:5px;
-
 }
 		
 		.btn-search {
@@ -300,8 +271,7 @@ html {
 	 font:12px/1.1 'TahomaNormal', Helvetica, Helvetica Neue, Arial, sans-serif;
 	 color:#fff;
 	 font-weight:bold;
-	 border:0px;
-	 
+	 border:0px;	 
 	 
 	   -webkit-box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
           -moz-box-shadow:1px 1px 1px 1px #a76c0d, 1px 1px 0 #a76c0d, 1px 1px 0 #a76c0d;
